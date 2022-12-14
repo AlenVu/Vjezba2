@@ -7,6 +7,9 @@ public class TC01 {
 
         System.out.println("Hello Hungary");
         System.out.println("Hello Mrzović");
+
+        System.out.println("Hello Sotin");
+        System.out.println("Hello Mitnica");
     }
 
 }
