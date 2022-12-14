@@ -10,6 +10,8 @@ public class TC01 {
 
         System.out.println("Hello Sotin");
         System.out.println("Hello Mitnica");
+
+        System.out.println("Živio Buco");
     }
 
 }
