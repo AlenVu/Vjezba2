@@ -12,6 +12,7 @@ public class TC01 {
         System.out.println("Hello Mitnica");
 
         System.out.println("Živio Buco");
+        System.out.println("Živio Dugački");
     }
 
 }
